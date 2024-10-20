@@ -187,15 +187,11 @@
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Neuronal network simulation",
+      "name": "Reproducible research",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Simulation-based inference",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Reproducible research",
       "icon": "fa-solid fa-tag"
     }
   ],
